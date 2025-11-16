@@ -1,6 +1,12 @@
 ## Cześć jestes Dominik 👋
-Jestem...
-
+ Jestem na początku kariery w branży IT i jestem kierunkowany na zdobycie pierwszego doświadczenia w IT.
+ Studiuję informatykę o specjalności Projektowanie Gier Wideo w WSB Merito w Gdyni (od
+ października 2024 r.), a dodatkowo rozwijam wiedzę techniczną poprzez kurs CompTIA A+ Certification (Core 1 i
+ Core 2).
+ Chcę łączyć zdobywaną wiedzę teoretyczną z praktyką, poszerzając kompetencje w obszarze wsparcia
+ użytkowników oraz testowania oprogramowania. Charakteryzuję się analitycznym podejściem, dokładnością i pasją
+ do nowych technologii oraz gier wideo. Jestem osobą komunikatywną, sumienną i zaangażowaną, a otwartość na
+ wyzwania pozwala mi skutecznie realizować powierzone zadania
 
 ## Technologie
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
