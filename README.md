@@ -10,4 +10,4 @@ Jestem...
 
 
 ## Statystyki
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2bajkox_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2bajkox&showicons=true&theme=radical)
