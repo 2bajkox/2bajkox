@@ -7,6 +7,16 @@ Jestem...
 ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/html-3366CC?style=for-the-badge&logo=htmx&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=Ren'Py&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=black)
+![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black)
+![Static Badge](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=Blender&logoColor=black)
+
 
 
 ## Statystyki
