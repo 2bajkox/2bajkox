@@ -9,5 +9,5 @@ Jestem...
 ![Static Badge](https://img.shields.io/badge/Ren'Py-FF7F7F?style=for-the-badge&logo=Ren'Py&logoColor=black)
 
 
-##Statystyki
+## Statystyki
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2bajkox_icons=true&theme=radical)
